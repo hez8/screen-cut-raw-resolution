@@ -1,0 +1,14 @@
+# Generated .app bundle
+ScreenCut.app/
+
+# Temporary files
+/tmp/
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
+memory/
